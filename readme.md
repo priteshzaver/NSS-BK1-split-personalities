@@ -1,0 +1,1 @@
+The purpose of this project is to list the items that are in the array using the .split and the .join methods.
